@@ -1,1 +1,0 @@
-Considering fights with at least 5 allied players and at least 5 enemies that took longer than 15 s.
